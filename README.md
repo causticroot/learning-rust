@@ -1,4 +1,4 @@
-# Aprendendo csharp
+# Aprendendo rust
 
 ## Objetivos:
 
