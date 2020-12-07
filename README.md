@@ -17,8 +17,9 @@ se aprofundar em tipos de dados e tornar-se um programador elegante.
 
 ## Exercícios
 
-* [Criar um projeto cargo](LINK); 
+* [Criar um projeto cargo](https://github.com/causticroot/learning-rust/blob/main/Exercises/hello_cargo/src/main.rs); 
 
+* [Jogo da adivinhação](LINK);
 
 ## Diário
 
