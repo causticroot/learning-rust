@@ -3,7 +3,7 @@
 ## Objetivos:
 
 Compreender mutabilidade  e gerenciamento de memória na teoria,
-se aprofundar em tipos de dados e tornar-se um programador elegante.
+se aprofundar em tipos de dados e tornar-se um programador elegante (dksksksksksk).
 
 
 
